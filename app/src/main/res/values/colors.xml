@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fa1e52</color>
+    <color name="colorPrimaryDark">#050000</color>
+    <color name="colorAccent">#7c36</color>
+    <color name="buttonColor">#7c36</color>
+    <color name="TextGradient">
+        <gradient
+            startColor="#0896a6"
+            endColor="#d9d6cd"
+            angle="45"/>
+    </color>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+</resources>
